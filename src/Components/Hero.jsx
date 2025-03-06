@@ -20,9 +20,8 @@ function Hero() {
 
               {/* Resume Download Button */}
               <a href={`${window.location.origin}/resume.pdf`}  download="Irfan_Ashfaq_Resume.pdf" 
-               className='bg-gradient-to-r from-pink-500 to-yellow-500 text-white hidden md:inline 
-               transform transition-transform duration-300 hover:scale-105 cursor-pointer
- px-4 py-2 rounded-full'>
+               className='bg-gradient-to-r from-pink-500 to-yellow-500 text-white  
+               transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full'>
                Download Resume
             </a>
         </div>
